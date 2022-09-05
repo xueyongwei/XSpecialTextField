@@ -1,0 +1,6 @@
+framework module Pods_XSpecialTextField_Example {
+  umbrella header "Pods-XSpecialTextField_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

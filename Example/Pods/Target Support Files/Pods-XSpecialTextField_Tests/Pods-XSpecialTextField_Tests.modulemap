@@ -1,0 +1,6 @@
+framework module Pods_XSpecialTextField_Tests {
+  umbrella header "Pods-XSpecialTextField_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - XSpecialTextField (0.1.0)
+
+DEPENDENCIES:
+  - XSpecialTextField (from `../`)
+
+EXTERNAL SOURCES:
+  XSpecialTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XSpecialTextField: 3433ad5828a4f08e3bc84a7c37631881258c4e10
+
+PODFILE CHECKSUM: 18087ea32130e0b0acec50cda78e0d01f3d89319
+
+COCOAPODS: 1.11.2

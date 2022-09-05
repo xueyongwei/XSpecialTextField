@@ -1,0 +1,6 @@
+framework module XSpecialTextField {
+  umbrella header "XSpecialTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}
