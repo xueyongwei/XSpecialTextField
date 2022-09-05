@@ -5,11 +5,16 @@
 [![License](https://img.shields.io/cocoapods/l/XSpecialTextField.svg?style=flat)](https://cocoapods.org/pods/XSpecialTextField)
 [![Platform](https://img.shields.io/cocoapods/p/XSpecialTextField.svg?style=flat)](https://cocoapods.org/pods/XSpecialTextField)
 
-## Example
+特殊输入框。手机号、航班号、限制字数、大小写等。
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+## 使用方法
 
-## Requirements
+```
+let textField = YRSpecialTextField.init()
+textField.specialType = YRSpecialTypeCapsLook.init(type: .uppercased)
+textField.placeholder = "锁定大写"
+```
+
 
 ## Installation
 
@@ -22,7 +27,9 @@ pod 'XSpecialTextField'
 
 ## Author
 
-Ray, xueyongwei@wsecar.com
+有其他类型处理，欢迎发起PR或issue
+
+Ray, xueyongwei@foxmail.com
 
 ## License
 
